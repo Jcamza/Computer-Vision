@@ -13,5 +13,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 9. [2024-NeurIPS] **OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/b4fd162d3e2d015233486a2e313828a7-Paper-Conference.pdf)] [[code](https://github.com/niusj03/OwMatch)]
 10. [2025-Arxiv] **CGMatch: A Different Perspective of Semi-supervised Learning** [[paper](https://arxiv.org/pdf/2503.02231?)] [[code](https://github.com/BoCheng-96/CGMatch)]
 
-### Clustering
-1. [] **Image Clustering with External Guidance**[[paper](https://arxiv.org/pdf/2310.11989)]
+### NEWS
+1. [2024-ICML] **Image Clustering with External Guidance**[[paper](https://arxiv.org/pdf/2310.11989)][[code](https://github.com/XLearning-SCU/2024-ICML-TAC)]
+2. **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2403.09974)][[code](https://github.com/enguangW/GET)]
+3. [2023-ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)][[code](https://github.com/miccunifi/SEARLE.)]
