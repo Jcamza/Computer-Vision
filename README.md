@@ -21,3 +21,4 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2024-ICML] **Image Clustering with External Guidance**[[paper](https://arxiv.org/pdf/2310.11989)][[code](https://github.com/XLearning-SCU/2024-ICML-TAC)]  
  [2025-CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2403.09974)][[code](https://github.com/enguangW/GET)]  
  [2025-CVPR] **COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**[[paper](https://arxiv.org/pdf/2503.23388)]
+ [2025] **VTD-CLIP:Video-to-TextDiscretizationviaPromptingCLIP**[[paper](https://arxiv.org/pdf/2503.18407#/)]
