@@ -25,8 +25,13 @@ As a new postgraduate, this repository contains a collection of papers on comput
  
  [2025-Arxiv] **Are WeDonewith Object-Centric Learning?**[[paper](https://arxiv.org/pdf/2504.07092)][[code(https://github.com/AlexanderRubinstein/diverse-universe-public)]  
  [2025-Arxiv] **CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**[[paper](https://arxiv.org/pdf/2503.21747)][[code](https://ctrl-o-paper.github.io/)]  
+ [2025-Arxiv] **Vector-Quantized Vision Foundation Models for Object-Centric Learning**[[paper](https://arxiv.org/pdf/2502.20263)]  
+ [2025-Arxiv] **Temporally Consistent Object-Centric Learning by Contrasting Slots**[[paper](https://arxiv.org/pdf/2412.14295)][[code](https://github.com/martius-lab/slotcontrast)]  
  [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
- 
+ [2025-CVPR] **Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34220)]  
+ [2025-ICLR] **Multi-Scale Fusion for Object Representation**[[paper](https://arxiv.org/pdf/2410.01539)][[code](https://github.com/Genera1Z/MultiScaleFusion)]  
+ [2025-ICLR] **A CLUSTERING BASELINE FOR OBJECT-CENTRIC REPRESENTATIONS**[[paper](https://openreview.net/pdf?id=Z56fPyx7GL)]  
+ [2025-CVPR] **Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33508)][[code](https://github.com/dgjung0220/Exposure-slot-official)]
 
 ### NEWS
  [2023-ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)][[code](https://github.com/miccunifi/SEARLE.)]  
