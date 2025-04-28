@@ -20,6 +20,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
 ### Object-Centric Learning
  [2023-NIPS] **2023-nips-Object-centric Learning with Cyclic Walks between Parts and Whole**[[paper](https://arxiv.org/pdf/2302.08023)][[code](https://github.com/ZhangLab-DeepNeuroCogLab/Parts-Whole-Object-Centric-Learning/)]  
+
+ [2024-Arxiv] **Guided Latent Slot Diffusion for Object-Centric Learning**[[paper](https://export.arxiv.org/pdf/2407.17929)][[code](https://guided-sa.github.io/)]
  
  [2025-Arxiv] **Are WeDonewith Object-Centric Learning?**[[paper](https://arxiv.org/pdf/2504.07092)][[code(https://github.com/AlexanderRubinstein/diverse-universe-public)]  
  [2025-Arxiv] **CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**[[paper](https://arxiv.org/pdf/2503.21747)][[code](https://ctrl-o-paper.github.io/)  
