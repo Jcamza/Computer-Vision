@@ -9,12 +9,14 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
  [2025-Arxiv] **Revisiting Semi-Supervised Learning in the Era of Foundation Models**[[paper](https://arxiv.org/pdf/2503.09707)] [[code](https://github.com/OSU-MLB/SSL-Foundation-Models)]  
  [2025-Arxiv] **CGMatch: A Different Perspective of Semi-supervised Learning** [[paper](https://arxiv.org/pdf/2503.02231?)] [[code](https://github.com/BoCheng-96/CGMatch)]  
+ [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)]  
+ [2025-Arxiv] **SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptatio**[[paper](https://arxiv.org/pdf/2501.14148)]  
  [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**  
  [2025-CVPR] **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**  
  [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**  
  [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**  
  [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning**  
-
+ [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]
 
 ### NEWS
  [2023-ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)][[code](https://github.com/miccunifi/SEARLE.)]  
