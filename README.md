@@ -24,7 +24,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2024-Arxiv] **Guided Latent Slot Diffusion for Object-Centric Learning**[[paper](https://export.arxiv.org/pdf/2407.17929)][[code](https://guided-sa.github.io/)]
  
  [2025-Arxiv] **Are WeDonewith Object-Centric Learning?**[[paper](https://arxiv.org/pdf/2504.07092)][[code(https://github.com/AlexanderRubinstein/diverse-universe-public)]  
- [2025-Arxiv] **CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**[[paper](https://arxiv.org/pdf/2503.21747)][[code](https://ctrl-o-paper.github.io/)  
+ [2025-Arxiv] **CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**[[paper](https://arxiv.org/pdf/2503.21747)][[code](https://ctrl-o-paper.github.io/)]  
  [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
  
 
