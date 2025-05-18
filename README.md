@@ -29,7 +29,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-CVPR] **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**  
  [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**  
  [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**  
- [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning** 
+ [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning**  
  [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
  [2025-CVPR] **Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33508)][[code](https://github.com/dgjung0220/Exposure-slot-official)]  
  [2025-CVPR] **Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34220)]  
