@@ -1,23 +1,10 @@
 # Computer-Vision-paper
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
-
-### Preprints
- [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**  
- [2025-CVPR] **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**  
- [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**  
- [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**  
- [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning** 
- [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
- [2025-CVPR] **Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33508)][[code](https://github.com/dgjung0220/Exposure-slot-official)]  
- [2025-CVPR] **Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34220)]  
- [2025-ICML] **Clustering via Self-Supervised Diffusion** 
- [2025-ICML] **Super Deep Contrastive Information Bottleneck for Multi-modal Clustering**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
- [2025-ICML] **A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
- [2025-ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models**[[paper](https://icml.cc/virtual/2025/poster/46673)] 
- [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)] 
- [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)] 
  
 ### Self-Supervised Learning
+ [2023-NIPS] **Object-centric Learning with Cyclic Walks between Parts and Whole**[[paper](https://arxiv.org/pdf/2302.08023)][[code](https://github.com/ZhangLab-DeepNeuroCogLab/Parts-Whole-Object-Centric-Learning/)]  
+
+
  [2025-Arxiv]**Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]
 
 ### Semi-Supervised Learning
@@ -36,8 +23,28 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)] 
 
 
-### Object-Centric Learning
- [2023-NIPS] **2023-nips-Object-centric Learning with Cyclic Walks between Parts and Whole**[[paper](https://arxiv.org/pdf/2302.08023)][[code](https://github.com/ZhangLab-DeepNeuroCogLab/Parts-Whole-Object-Centric-Learning/)]  
+### Model integration 
+ [2025-Arxiv]**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)]
+
+### Preprints
+ [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**  
+ [2025-CVPR] **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**  
+ [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**  
+ [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**  
+ [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning** 
+ [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
+ [2025-CVPR] **Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33508)][[code](https://github.com/dgjung0220/Exposure-slot-official)]  
+ [2025-CVPR] **Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34220)]  
+ [2025-ICML] **Clustering via Self-Supervised Diffusion** 
+ [2025-ICML] **Super Deep Contrastive Information Bottleneck for Multi-modal Clustering**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
+ [2025-ICML] **A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
+ [2025-ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models**[[paper](https://icml.cc/virtual/2025/poster/46673)] 
+ [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)] 
+ [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)] 
+
+
+### Others
+ [2025-ICLR]**Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)]
 
  [2024-Arxiv] **Guided Latent Slot Diffusion for Object-Centric Learning**[[paper](https://export.arxiv.org/pdf/2407.17929)][[code](https://guided-sa.github.io/)]
  
@@ -48,11 +55,6 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR] **Multi-Scale Fusion for Object Representation**[[paper](https://arxiv.org/pdf/2410.01539)][[code](https://github.com/Genera1Z/MultiScaleFusion)]  
  [2025-ICLR] **A CLUSTERING BASELINE FOR OBJECT-CENTRIC REPRESENTATIONS**[[paper](https://openreview.net/pdf?id=Z56fPyx7GL)]  
 
-### Model integration
- [2025-ICLR]**Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)] 
- [2025-Arxiv]**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)]
-
-### Others
 
 
 ### News
