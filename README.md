@@ -2,8 +2,8 @@
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
  
 ### Self-Supervised Learning
- [2025-ICLR]**Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)] 
- [2025-Arxiv]**Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)] 
+ [2025-ICLR]**Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)]  
+ [2025-Arxiv]**Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]  
 
 ### Semi-Supervised Learning
  [2023-NeurIPS] **S-CLIP: Semi-supervised Vision-Language Learning using Few Specialist Captions** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)] [[code](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)]  
@@ -18,7 +18,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
 
 ### GCD
- [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)] 
+ [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
 
 
 ### Model integration 
