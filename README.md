@@ -10,11 +10,15 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
  [2025-CVPR] **Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33508)][[code](https://github.com/dgjung0220/Exposure-slot-official)]  
  [2025-CVPR] **Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34220)]  
- [2025-ICML] **Clustering via Self-Supervised Diffusion**
-
+ [2025-ICML] **Clustering via Self-Supervised Diffusion** 
+ [2025-ICML] **Super Deep Contrastive Information Bottleneck for Multi-modal Clustering**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
+ [2025-ICML] **A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
+ [2025-ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models**[[paper](https://icml.cc/virtual/2025/poster/46673)] 
+ [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)] 
+ [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)] 
  
 ### Self-Supervised Learning
- []**Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]
+ [2025-Arxiv]**Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]
 
 ### Semi-Supervised Learning
  [2023-NeurIPS] **S-CLIP: Semi-supervised Vision-Language Learning using Few Specialist Captions** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)] [[code](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)]  
@@ -29,6 +33,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
 
 ### GCD
+ [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)] 
 
 
 ### Object-Centric Learning
@@ -42,6 +47,10 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-Arxiv] **Temporally Consistent Object-Centric Learning by Contrasting Slots**[[paper](https://arxiv.org/pdf/2412.14295)][[code](https://github.com/martius-lab/slotcontrast)]  
  [2025-ICLR] **Multi-Scale Fusion for Object Representation**[[paper](https://arxiv.org/pdf/2410.01539)][[code](https://github.com/Genera1Z/MultiScaleFusion)]  
  [2025-ICLR] **A CLUSTERING BASELINE FOR OBJECT-CENTRIC REPRESENTATIONS**[[paper](https://openreview.net/pdf?id=Z56fPyx7GL)]  
+
+### Model integration
+ [2025-ICLR]**Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)] 
+ [2025-Arxiv]**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)]
 
 ### Others
 
@@ -57,3 +66,4 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-CVPR] **VTD-CLIP:Video-to-Text Discretization via Prompting CLIP**[[paper](https://arxiv.org/pdf/2503.18407#/)]  
 
  [2025-ICLR] **ATTRIBUTE-BASED VISUAL REPROGRAMMING FOR VISION-LANGUAGE MODELS**[[paper](https://arxiv.org/pdf/2501.13982)] 
+ [2025-ICML] **Towards a Unified Framework of Clustering-based Anomaly Detection**[[paper](https://arxiv.org/pdf/2406.00452)]
