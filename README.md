@@ -33,13 +33,13 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
  [2025-CVPR] **Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33508)][[code](https://github.com/dgjung0220/Exposure-slot-official)]  
  [2025-CVPR] **Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34220)]  
- [2025-ICML] **Clustering via Self-Supervised Diffusion** 
- [2025-ICML] **Super Deep Contrastive Information Bottleneck for Multi-modal Clustering**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
- [2025-ICML] **A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method**[[paper](https://icml.cc/virtual/2025/poster/46541)] 
- [2025-ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models**[[paper](https://icml.cc/virtual/2025/poster/46673)] 
- [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)] 
- [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)] 
-
+ [2025-ICML] **Clustering via Self-Supervised Diffusion**  
+ [2025-ICML] **Super Deep Contrastive Information Bottleneck for Multi-modal Clustering**[[paper](https://icml.cc/virtual/2025/poster/46541)]  
+ [2025-ICML] **A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method**[[paper](https://icml.cc/virtual/2025/poster/46541)]  
+ [2025-ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models**[[paper](https://icml.cc/virtual/2025/poster/46673)]  
+ [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)]  
+ [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)]  
+ 
 
 ### Others
  [2023-NIPS] **Object-centric Learning with Cyclic Walks between Parts and Whole**[[paper](https://arxiv.org/pdf/2302.08023)][[code](https://github.com/ZhangLab-DeepNeuroCogLab/Parts-Whole-Object-Centric-Learning/)]  
