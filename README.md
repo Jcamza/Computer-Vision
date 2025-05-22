@@ -2,8 +2,13 @@
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
  
 ### Self-Supervised Learning
+ [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code(https://github.com/HHU-MMBS/TEMI-official-BMVC2023]]
+ 
+ [2024-Arxiv] **DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**[[paper](https://arxiv.org/pdf/2408.08855)][[code(暂无)]]
+
  [2025-ICLR]**Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)]  
  [2025-Arxiv]**Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]  
+
 
 ### Semi-Supervised Learning
  [2023-NeurIPS] **S-CLIP: Semi-supervised Vision-Language Learning using Few Specialist Captions** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)] [[code](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)]  
@@ -15,14 +20,18 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-Arxiv] **CGMatch: A Different Perspective of Semi-supervised Learning** [[paper](https://arxiv.org/pdf/2503.02231?)] [[code](https://github.com/BoCheng-96/CGMatch)]  
  [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)][[code](https://anonymous.4open.science/r/Semi-supervised-learning-BA72)]  
  [2025-Arxiv] **SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptatio**[[paper](https://arxiv.org/pdf/2501.14148)]  
+ [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)][[code](https://anonymous.4open.science/r/Semi-supervised-learning-BA72)]  
  [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
+ 
 
 ### GCD
- [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
-
+ [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)] 
+ [2025-Arxiv]**Hyperbolic Category Discovery**[[paper](https://visual-ai.github.io/hypcd/)][[code](https://github.com/Visual-AI/HypCD)]  
+ [2025-ICLR]**DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
+ []**Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)][[code]()]
 
 ### Model integration 
- [2025-Arxiv]**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)]  
+ [2025-Arxiv]**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
 
 ### Preprints
  [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**  
