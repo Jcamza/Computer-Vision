@@ -2,7 +2,7 @@
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
  
 ### Self-Supervised Learning
- [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code(https://github.com/HHU-MMBS/TEMI-official-BMVC2023]]
+ [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code](https://github.com/HHU-MMBS/TEMI-official-BMVC2023)]
  
  [2024-Arxiv] **DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**[[paper](https://arxiv.org/pdf/2408.08855)][[code(暂无)]]
 
@@ -25,10 +25,10 @@ As a new postgraduate, this repository contains a collection of papers on comput
  
 
 ### GCD
- [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)] 
+ [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
  [2025-Arxiv]**Hyperbolic Category Discovery**[[paper](https://visual-ai.github.io/hypcd/)][[code](https://github.com/Visual-AI/HypCD)]  
  [2025-ICLR]**DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
- []**Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)][[code]()]
+ []**Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)][[code]()]  
 
 ### Model integration 
  [2025-Arxiv]**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
