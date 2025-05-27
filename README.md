@@ -6,8 +6,9 @@ As a new postgraduate, this repository contains a collection of papers on comput
  
  [2024-Arxiv] **DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**[[paper](https://arxiv.org/pdf/2408.08855)][[code(暂无)]]
 
- [2025-ICLR]**Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)]  
- [2025-Arxiv]**Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]  
+ [2025-ICLR] **Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)]  
+ [2025-Arxiv] **Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]  
+ [2025-Arxiv] **Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification**[[paper](https://arxiv.org/pdf/2503.16873)][[code](https://github.com/k0u-id/CCD)]
 
 
 ### Semi-Supervised Learning
@@ -25,13 +26,15 @@ As a new postgraduate, this repository contains a collection of papers on comput
  
 
 ### GCD
- [2025-ICLR]**GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
- [2025-Arxiv]**Hyperbolic Category Discovery**[[paper](https://visual-ai.github.io/hypcd/)][[code](https://github.com/Visual-AI/HypCD)]  
- [2025-ICLR]**DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
- []**Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)][[code]()]  
+ [2025-ICLR] **GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
+ [2025-Arxiv] **Hyperbolic Category Discovery**[[paper](https://visual-ai.github.io/hypcd/)][[code](https://github.com/Visual-AI/HypCD)]  
+ [2025-ICLR] **DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
+ [] **Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)][[code]()]  
+ [2024-CVPR] **Targeted Representation Alignment for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/Justherozen/TRAILER)]  
 
 ### Model integration 
- [2025-Arxiv]**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
+ [2025-Arxiv] **LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
+ [2024-Arxiv] **BRAVE :Broadening the visual encoding of vision-language models**[[paper](https://arxiv.org/pdf/2404.07204)]  
 
 ### Preprints
  [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**  
@@ -51,16 +54,6 @@ As a new postgraduate, this repository contains a collection of papers on comput
  
 
 ### Others
- [2023-NIPS] **Object-centric Learning with Cyclic Walks between Parts and Whole**[[paper](https://arxiv.org/pdf/2302.08023)][[code](https://github.com/ZhangLab-DeepNeuroCogLab/Parts-Whole-Object-Centric-Learning/)]  
-
- [2024-Arxiv] **Guided Latent Slot Diffusion for Object-Centric Learning**[[paper](https://export.arxiv.org/pdf/2407.17929)][[code](https://guided-sa.github.io/)]
- 
- [2025-Arxiv] **Are WeDonewith Object-Centric Learning?**[[paper](https://arxiv.org/pdf/2504.07092)][[code](https://github.com/AlexanderRubinstein/diverse-universe-public)]  
- [2025-Arxiv] **CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**[[paper](https://arxiv.org/pdf/2503.21747)][[code](https://ctrl-o-paper.github.io/)]  
- [2025-Arxiv] **Vector-Quantized Vision Foundation Models for Object-Centric Learning**[[paper](https://arxiv.org/pdf/2502.20263)]  
- [2025-Arxiv] **Temporally Consistent Object-Centric Learning by Contrasting Slots**[[paper](https://arxiv.org/pdf/2412.14295)][[code](https://github.com/martius-lab/slotcontrast)]  
- [2025-ICLR] **Multi-Scale Fusion for Object Representation**[[paper](https://arxiv.org/pdf/2410.01539)][[code](https://github.com/Genera1Z/MultiScaleFusion)]  
- [2025-ICLR] **A CLUSTERING BASELINE FOR OBJECT-CENTRIC REPRESENTATIONS**[[paper](https://openreview.net/pdf?id=Z56fPyx7GL)]  
 
 ### News
  [2023-ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)][[code](https://github.com/miccunifi/SEARLE)]  
