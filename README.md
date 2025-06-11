@@ -11,9 +11,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
  [2025-Arxiv] **Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]  
  [2025-Arxiv] **Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification**[[paper](https://arxiv.org/pdf/2503.16873)][[code](https://github.com/k0u-id/CCD)]  
- [2025-CVPR] **Pay Attention to the Foreground in Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34483)]  
  [2025-CVPR] **Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33508)][[code](https://github.com/dgjung0220/Exposure-slot-official)]  
- [2025-CVPR] **Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34220)]  
  [2025-ICLR] **Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)]  
  [2025-ICML] **Towards a Unified Framework of Clustering-based Anomaly Detection**[[paper](https://arxiv.org/pdf/2406.00452)]  
 
