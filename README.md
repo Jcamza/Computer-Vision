@@ -39,9 +39,10 @@ As a new postgraduate, this repository contains a collection of papers on comput
 ### GCD
  [2024-CVPR] **Targeted Representation Alignment for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/Justherozen/TRAILER)]  
  
- [2025-Arxiv] **Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)][[code]()]  
+ [2025-Arxiv] **Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)]  
  [2025-Arxiv] **Hyperbolic Category Discovery**[[paper](https://visual-ai.github.io/hypcd/)][[code](https://github.com/Visual-AI/HypCD)]  
  [2025-CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2403.09974)][[code](https://github.com/enguangW/GET)]  
+ [2025-CVPR] **Mamba-Adaptor: State Space Model Adaptor for Visual Recognition**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Mamba-Adaptor_State_Space_Model_Adaptor_for_Visual_Recognition_CVPR_2025_paper.pdf)]  
  [2025-ICLR] **GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
  [2025-ICLR] **DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
 
@@ -78,5 +79,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
  [2025-Arxiv] **CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**[[paper](https://arxiv.org/pdf/2411.19346)][[code](https://github.com/fazliimam/NoLA)]  
  [2025-Arxiv] **Vocabulary-free few-shot learning for Vision-Language Models**[[paper](https://arxiv.org/pdf/2506.04005)][[code](https://github.com/MaxZanella/vocabulary-free-FSL)]  
+ [2025-CVPR] **Less Attention is More: Prompt Transformer for Generalized Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://github.com/wendy26zhang/AptGCD)]  
+ [2025-CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)][[code](https://micv-yonsei.github.io/cass/)]
+ 
 
  
