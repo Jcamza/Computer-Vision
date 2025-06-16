@@ -29,11 +29,11 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-Arxiv] **SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptatio**[[paper](https://arxiv.org/pdf/2501.14148)]  
  [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)][[code](https://anonymous.4open.science/r/Semi-supervised-learning-BA72)]  
 
- [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/35128)]  
- [2025-CVPR] **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/32613)]  
- [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34877)]  
- [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/32494)]  
- [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33330)]  
+ [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Language-Assisted_Debiasing_and_Smoothing_for_Foundation_Model-Based_Semi-Supervised_Learning_CVPR_2025_paper.pdf)]   
+ [2025-CVPR] **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_Towards_Cost-Effective_Learning_A_Synergy_of_Semi-Supervised_and_Active_Learning_CVPR_2025_paper.pdf)]  
+ [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_Seek_Common_Ground_While_Reserving_Differences_Semi-Supervised_Image-Text_Sentiment_Recognition_CVPR_2025_paper.pdf)]  
+ [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CLIP-driven_Coarse-to-fine_Semantic_Guidance_for_Fine-grained_Open-set_Semi-supervised_Learning_CVPR_2025_paper.pdf)]  
+ [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf)]  
  [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
  
 
