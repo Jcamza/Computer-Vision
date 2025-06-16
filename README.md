@@ -28,6 +28,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)][[code](https://anonymous.4open.science/r/Semi-supervised-learning-BA72)]  
  [2025-Arxiv] **SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptatio**[[paper](https://arxiv.org/pdf/2501.14148)]  
  [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)][[code](https://anonymous.4open.science/r/Semi-supervised-learning-BA72)]  
+
  [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/35128)]  
  [2025-CVPR] **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/32613)]  
  [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34877)]  
@@ -75,12 +76,15 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2023-NeurIPS] **Vocabulary-free Image Classification**[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/619cbddb92b8c6fecaf2b86463153be9-Abstract-Conference.html)][[code](https://github.com/altndrr/vic)]
 
  [2024-Arxiv] **Vocabulary-free Image Classification and Semantic Segmentation**[[paper](https://arxiv.org/pdf/2404.10864)][[code](https://github.com/altndrr/vicss)]  
- [2024-Arxiv] **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2408.04883)][[code](https://github.com/mc-lan/ProxyCLIP)]
+ [2024-Arxiv] **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2408.04883)][[code](https://github.com/mc-lan/ProxyCLIP)]  
+ [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]
 
  [2025-Arxiv] **CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**[[paper](https://arxiv.org/pdf/2411.19346)][[code](https://github.com/fazliimam/NoLA)]  
  [2025-Arxiv] **Vocabulary-free few-shot learning for Vision-Language Models**[[paper](https://arxiv.org/pdf/2506.04005)][[code](https://github.com/MaxZanella/vocabulary-free-FSL)]  
+ [2025-Arxiv] **Revisiting Semi-Supervised Learning in the Era of Foundation Models**[[paper](https://arxiv.org/pdf/2503.09707)][[code](https://github.com/OSU-MLB/SSL-Foundation-Models)]  
  [2025-CVPR] **Less Attention is More: Prompt Transformer for Generalized Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://github.com/wendy26zhang/AptGCD)]  
- [2025-CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)][[code](https://micv-yonsei.github.io/cass/)]
+ [2025-CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)][[code](https://micv-yonsei.github.io/cass/)]  
+ [2025-CVPR] **Hyperbolic Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://visual-ai.github.io/hypcd/)]
  
 
  
