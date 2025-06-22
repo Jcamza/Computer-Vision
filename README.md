@@ -7,6 +7,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2023-ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)][[code](https://github.com/miccunifi/SEARLE)]  
  
  [2024-Arxiv] **DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**[[paper](https://arxiv.org/pdf/2408.08855)][[code(暂无)]]  
+ [2024-Arxiv] **Let Go of Your Labels with Unsupervised Transfer**[[paper](https://arxiv.org/pdf/2406.07236)][[code]()]
+ [2024-Arxiv] **Vocabulary-free Image Classification and Semantic Segmentation**[[paper](https://arxiv.org/pdf/2404.10864)][[code](https://github.com/altndrr/vicss)]  
  [2024-ICML] **Image Clustering with External Guidance**[[paper](https://arxiv.org/pdf/2310.11989)][[code](https://github.com/XLearning-SCU/2024-ICML-TAC)]  
 
  [2025-Arxiv] **Clustering Properties of Self-Supervised Learning**[[paper](https://arxiv.org/pdf/2501.18452?#page=12.76)]  
