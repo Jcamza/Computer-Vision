@@ -54,6 +54,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2024-Arxiv] **BRAVE :Broadening the visual encoding of vision-language models**[[paper](https://arxiv.org/pdf/2404.07204)]  
 
  [2025-Arxiv] **LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
+ [2025-CVPR] **Wang DeCLIP Decoupled Learning for Open-Vocabulary Dense Perception**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf)]  
 
 
 ### Fine-tuning of the base model
