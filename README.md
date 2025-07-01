@@ -80,7 +80,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
  [2024-Arxiv] **Vocabulary-free Image Classification and Semantic Segmentation**[[paper](https://arxiv.org/pdf/2404.10864)][[code](https://github.com/altndrr/vicss)]  
  [2024-Arxiv] **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2408.04883)][[code](https://github.com/mc-lan/ProxyCLIP)]  
- [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]
+ [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
+ [2024-ICJV]  **MutualFormer: Multi-modal Representation Learning via Cross-Diffusion Attention**[[paper](https://link.springer.com/article/10.1007/s11263-024-02067-x)][[code](https://github.com/SissiW/MutualFormer)]
 
  [2025-Arxiv] **CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**[[paper](https://arxiv.org/pdf/2411.19346)][[code](https://github.com/fazliimam/NoLA)]  
  [2025-Arxiv] **Vocabulary-free few-shot learning for Vision-Language Models**[[paper](https://arxiv.org/pdf/2506.04005)][[code](https://github.com/MaxZanella/vocabulary-free-FSL)]  
