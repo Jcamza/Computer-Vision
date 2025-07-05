@@ -89,7 +89,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-Arxiv] **Revisiting Semi-Supervised Learning in the Era of Foundation Models**[[paper](https://arxiv.org/pdf/2503.09707)][[code](https://github.com/OSU-MLB/SSL-Foundation-Models)]  
  [2025-CVPR] **Less Attention is More: Prompt Transformer for Generalized Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://github.com/wendy26zhang/AptGCD)]  
  [2025-CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)][[code](https://micv-yonsei.github.io/cass/)]  
- [2025-CVPR] **Hyperbolic Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://visual-ai.github.io/hypcd/)]
+ [2025-CVPR] **Hyperbolic Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://visual-ai.github.io/hypcd/)]  
+ [2025-ICML] **Representation Surgery in Model Merging with Probabilistic Modeling**[[paper](https://openreview.net/pdf?id=a02CH43z1G)][[code]()]
  
 
  
