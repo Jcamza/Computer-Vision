@@ -19,6 +19,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR] **Eagle: Exploring the design space for multimodal llms with mixture of encoders**[[paper](https://arxiv.org/pdf/2408.15998)]  
  [2025-ICML] **Towards a Unified Framework of Clustering-based Anomaly Detection**[[paper](https://arxiv.org/pdf/2406.00452)]  
  [2025-CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)][[code](https://micv-yonsei.github.io/cass/)]  
+ [2025-ICCV] **On the Provable Importance of Gradients for Language-Assisted Image Clustering**
 
 
 ### Semi-Supervised Learning
@@ -42,7 +43,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CLIP-driven_Coarse-to-fine_Semantic_Guidance_for_Fine-grained_Open-set_Semi-supervised_Learning_CVPR_2025_paper.pdf)]  
  [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf)]  
  [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
- 
+ [] **SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**[[paper]()]   
 
 ### GCD
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
@@ -59,16 +60,21 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR] **DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
  [2025-CVPR] **Hyperbolic Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://visual-ai.github.io/hypcd/)]  
  [2025] **Learning Separable Fine-Grained Representation via Dendrogram Construction from Coarse Labels for Fine-grained Visual Recognition**  
+ [2025-ICCV] **AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery**  
+ [2025-ICCV] **Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery**  
+
 
 
 ### Model integration 
  [2024-Arxiv] **BRAVE :Broadening the visual encoding of vision-language models**[[paper](https://arxiv.org/pdf/2404.07204)]  
  [2024-Arxiv] **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2408.04883)][[code](https://github.com/mc-lan/ProxyCLIP)]  
+ [2024-Arxiv] **Let Go of Your Labels with Unsupervised Transfer**[[paper]](https://arxiv.org/pdf/2406.07236?)
 
  [2025-Arxiv] **LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
  [2025-Arxiv] **CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**[[paper](https://arxiv.org/pdf/2411.19346)][[code](https://github.com/fazliimam/NoLA)]  
  [2025-CVPR] **Wang DeCLIP Decoupled Learning for Open-Vocabulary Dense Perception**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf)]  
  [2025-ICML] **Representation Surgery in Model Merging with Probabilistic Modeling**[[paper](https://openreview.net/pdf?id=a02CH43z1G)][[code]()]  
+ [2025-ICCV] **Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition**  
 
 
 ### Fine-tuning of the base model
@@ -85,3 +91,13 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)]  
  [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)]  
  
+### Tring-Free
+ [2024-Arxiv] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation**[[paper](https://arxiv.org/pdf/2410.14729?)]  
+ 
+ [] **Training-Free Text-Guided Image Editing with Visual Autoregressive Model**  
+ [] **Training-Free Industrial Defect Generation with Diffusion Models**  
+ [] **SynCity: Training-Free Generation of 3D Cities**  
+ [] **Training-free Geometric Image Editing on Diffusion Models**  
+ [] **Frequency-Guided Diffusion for Training-Free Text-Driven Image Translation**  
+ [] **KV-Edit: Training-Free Image Editing for Precise Background Preservation**  
+ [] **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**  
