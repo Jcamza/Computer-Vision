@@ -64,8 +64,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICCV] **Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery**  
 
 ### Pruning
-[2025-ICCV] **METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models**[[paper](https://iccv.thecvf.com/virtual/2025/poster/2161)]
-[2025-ICCV] **Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs**[[paper](https://arxiv.org/pdf/2412.01818)]
+[2025-ICCV] **METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models**[[paper](https://iccv.thecvf.com/virtual/2025/poster/2161)]  
+[2025-ICCV] **Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs**[[paper](https://arxiv.org/pdf/2412.01818)]  
 
 ### Model integration 
  [2024-Arxiv] **BRAVE :Broadening the visual encoding of vision-language models**[[paper](https://arxiv.org/pdf/2404.07204)]  
@@ -93,7 +93,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)]  
  [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)]  
  
-### Tring-Free
+### Training-Free
  [2024-Arxiv] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation**[[paper](https://arxiv.org/pdf/2410.14729?)]  
  
  [2025-ICCV] **Training-Free Text-Guided Image Editing with Visual Autoregressive Model**  
