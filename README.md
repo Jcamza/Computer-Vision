@@ -63,7 +63,9 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICCV] **AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery**  
  [2025-ICCV] **Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery**  
 
-
+### Pruning
+[2025-ICCV] **METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models**[[paper](https://iccv.thecvf.com/virtual/2025/poster/2161)]
+[2025-ICCV] **Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs**[[paper](https://arxiv.org/pdf/2412.01818)]
 
 ### Model integration 
  [2024-Arxiv] **BRAVE :Broadening the visual encoding of vision-language models**[[paper](https://arxiv.org/pdf/2404.07204)]  
@@ -94,10 +96,10 @@ As a new postgraduate, this repository contains a collection of papers on comput
 ### Tring-Free
  [2024-Arxiv] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation**[[paper](https://arxiv.org/pdf/2410.14729?)]  
  
- [] **Training-Free Text-Guided Image Editing with Visual Autoregressive Model**  
- [] **Training-Free Industrial Defect Generation with Diffusion Models**  
- [] **SynCity: Training-Free Generation of 3D Cities**  
- [] **Training-free Geometric Image Editing on Diffusion Models**  
- [] **Frequency-Guided Diffusion for Training-Free Text-Driven Image Translation**  
- [] **KV-Edit: Training-Free Image Editing for Precise Background Preservation**  
- [] **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**  
+ [2025-ICCV] **Training-Free Text-Guided Image Editing with Visual Autoregressive Model**  
+ [2025-ICCV] **Training-Free Industrial Defect Generation with Diffusion Models**  
+ [2025-ICCV] **SynCity: Training-Free Generation of 3D Cities**  
+ [2025-ICCV] **Training-free Geometric Image Editing on Diffusion Models**  
+ [2025-ICCV] **Frequency-Guided Diffusion for Training-Free Text-Driven Image Translation**  
+ [2025-ICCV] **KV-Edit: Training-Free Image Editing for Precise Background Preservation**  
+ [2025-ICCV] **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**  
