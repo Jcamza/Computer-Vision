@@ -43,7 +43,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CLIP-driven_Coarse-to-fine_Semantic_Guidance_for_Fine-grained_Open-set_Semi-supervised_Learning_CVPR_2025_paper.pdf)]  
  [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf)]  
  [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
- [] **SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**[[paper]()]   
+ [2025-ICCV] **SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**[[paper]()]   
 
 ### GCD
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
@@ -64,6 +64,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICCV] **Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery**  
 
 ### Pruning
+[2024-CVPR] **Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)]  
 [2025-ICCV] **METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models**[[paper](https://iccv.thecvf.com/virtual/2025/poster/2161)]  
 [2025-ICCV] **Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs**[[paper](https://arxiv.org/pdf/2412.01818)]  
 
@@ -77,6 +78,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-CVPR] **Wang DeCLIP Decoupled Learning for Open-Vocabulary Dense Perception**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf)]  
  [2025-ICML] **Representation Surgery in Model Merging with Probabilistic Modeling**[[paper](https://openreview.net/pdf?id=a02CH43z1G)][[code]()]  
  [2025-ICCV] **Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition**  
+ [2025-ICCV] **Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features**[[paper](https://arxiv.org/pdf/2412.00142)]  
 
 
 ### Fine-tuning of the base model
@@ -86,6 +88,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
  
 ### Preprint
+ 
  [2025-ICML] **Clustering via Self-Supervised Diffusion**[[paper](https://icml.cc/virtual/2025/poster/46196)]  
  [2025-ICML] **Super Deep Contrastive Information Bottleneck for Multi-modal Clustering**[[paper](https://icml.cc/virtual/2025/poster/46541)]  
  [2025-ICML] **A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method**[[paper](https://icml.cc/virtual/2025/poster/46541)]  
