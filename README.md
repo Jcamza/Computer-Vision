@@ -59,9 +59,10 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR] **GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
  [2025-ICLR] **DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
  [2025-CVPR] **Hyperbolic Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://visual-ai.github.io/hypcd/)]  
- [2025] **Learning Separable Fine-Grained Representation via Dendrogram Construction from Coarse Labels for Fine-grained Visual Recognition**  
+ [2025-ICCV] **Learning Separable Fine-Grained Representation via Dendrogram Construction from Coarse Labels for Fine-grained Visual Recognition**[[code](https://github.com/BeCarefulOfYournaoke/BuCSFR)]  
  [2025-ICCV] **AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery**  
  [2025-ICCV] **Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery**  
+ [2025-CVPR] **MOS:Modeling Object-Scene Associations in Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.12035)][[code](https://github.com/JethroPeng/MOS)]  
 
 ### Pruning
 [2024-CVPR] **Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)]  
@@ -76,6 +77,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-Arxiv] **LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
  [2025-Arxiv] **CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**[[paper](https://arxiv.org/pdf/2411.19346)][[code](https://github.com/fazliimam/NoLA)]  
  [2025-CVPR] **Wang DeCLIP Decoupled Learning for Open-Vocabulary Dense Perception**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf)]  
+ [2025-CVPR] **MMRL:Multi-Modal Representation Learning for Vision-Language Models**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_MMRL_Multi-Modal_Representation_Learning_for_Vision-Language_Models_CVPR_2025_paper.pdf)][[code](https://github.com/yunncheng/MMRL)]  
  [2025-ICML] **Representation Surgery in Model Merging with Probabilistic Modeling**[[paper](https://openreview.net/pdf?id=a02CH43z1G)][[code]()]  
  [2025-ICCV] **Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition**  
  [2025-ICCV] **Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features**[[paper](https://arxiv.org/pdf/2412.00142)]  
