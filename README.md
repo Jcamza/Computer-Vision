@@ -1,6 +1,7 @@
 # Computer-Vision-paper
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
 
+ [2025-ICLR] **NEAR, FAR: PATCH-ORDERING ENHANCES VISION FOUNDATION MODELS’ SCENE UNDERSTANDING**[[paper](https://arxiv.org/pdf/2408.11054)]  
 
 ### Self-Supervised Learning（Including clustering）
  [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code](https://github.com/HHU-MMBS/TEMI-official-BMVC2023)]  
@@ -73,6 +74,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2024-Arxiv] **BRAVE :Broadening the visual encoding of vision-language models**[[paper](https://arxiv.org/pdf/2404.07204)]  
  [2024-Arxiv] **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2408.04883)][[code](https://github.com/mc-lan/ProxyCLIP)]  
  [2024-Arxiv] **Let Go of Your Labels with Unsupervised Transfer**[[paper]](https://arxiv.org/pdf/2406.07236?)
+ [2024-NeurIPS] **No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**[[paper](https://arxiv.org/pdf/2407.10964)]
 
  [2025-Arxiv] **LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
  [2025-Arxiv] **CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**[[paper](https://arxiv.org/pdf/2411.19346)][[code](https://github.com/fazliimam/NoLA)]  
@@ -90,7 +92,6 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
  
 ### Preprint
- 
  [2025-ICML] **Clustering via Self-Supervised Diffusion**[[paper](https://icml.cc/virtual/2025/poster/46196)]  
  [2025-ICML] **Super Deep Contrastive Information Bottleneck for Multi-modal Clustering**[[paper](https://icml.cc/virtual/2025/poster/46541)]  
  [2025-ICML] **A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method**[[paper](https://icml.cc/virtual/2025/poster/46541)]  
