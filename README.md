@@ -6,7 +6,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 ### Remote Sensing
  [2025-Arxiv] **Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices**[[paper](https://arxiv.org/pdf/2507.03367?)][[code](https://github.com/blaz-r/BTC-change-detection)]  
  [2025-Arxiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**[[paper](https://arxiv.org/pdf/2501.12931)][[code](https://likyoo.github.io/DynamicEarth)]  
- [2024-NeurIPS] ****[[paper](https://arxiv.org/pdf/2402.01188)][[code](https://github.com/Z-Zheng/pytorch-change-models)]  
+ [2024-NeurIPS] **Segment Any Change**[[paper](https://arxiv.org/pdf/2402.01188)][[code](https://github.com/Z-Zheng/pytorch-change-models)]  
 
 ### Self-Supervised Learning（Including clustering）
  [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code](https://github.com/HHU-MMBS/TEMI-official-BMVC2023)]  
