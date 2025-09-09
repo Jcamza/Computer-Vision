@@ -3,6 +3,11 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
  [2025-ICLR] **NEAR, FAR: PATCH-ORDERING ENHANCES VISION FOUNDATION MODELS’ SCENE UNDERSTANDING**[[paper](https://arxiv.org/pdf/2408.11054)]  
 
+### Remote Sensing
+ [2025-Arxiv] **Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices**[[paper](https://arxiv.org/pdf/2507.03367?)][[code](https://github.com/blaz-r/BTC-change-detection)]  
+ [2025-Arxiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**[[paper](https://arxiv.org/pdf/2501.12931)][[code](https://likyoo.github.io/DynamicEarth)]  
+ [2024-NeurIPS] ****[[paper](https://arxiv.org/pdf/2402.01188)][[code](https://github.com/Z-Zheng/pytorch-change-models)]  
+
 ### Self-Supervised Learning（Including clustering）
  [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code](https://github.com/HHU-MMBS/TEMI-official-BMVC2023)]  
  [2023-ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)][[code](https://github.com/miccunifi/SEARLE)]  
