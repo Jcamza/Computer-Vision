@@ -4,9 +4,12 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICLR] **NEAR, FAR: PATCH-ORDERING ENHANCES VISION FOUNDATION MODELS’ SCENE UNDERSTANDING**[[paper](https://arxiv.org/pdf/2408.11054)]  
 
 ### Remote Sensing
+ [2024-Arxiv] **Open-cd: A comprehensive toolbox for change detection**[[paper](https://arxiv.org/pdf/2407.15317)][[code](https://github.com/likyoo/open-cd)]  
+ [2024-NeurIPS] **Segment Any Change**[[paper](https://arxiv.org/pdf/2402.01188)][[code](https://github.com/Z-Zheng/pytorch-change-models)]  
+  
  [2025-Arxiv] **Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices**[[paper](https://arxiv.org/pdf/2507.03367?)][[code](https://github.com/blaz-r/BTC-change-detection)]  
  [2025-Arxiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**[[paper](https://arxiv.org/pdf/2501.12931)][[code](https://likyoo.github.io/DynamicEarth)]  
- [2024-NeurIPS] **Segment Any Change**[[paper](https://arxiv.org/pdf/2402.01188)][[code](https://github.com/Z-Zheng/pytorch-change-models)]  
+ [2025-Arxiv] **PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection**[[paper](https://arxiv.org/pdf/2509.09572)][[code](https://github.com/dyzy41/PeftCD)]  
 
 ### Self-Supervised Learning（Including clustering）
  [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code](https://github.com/HHU-MMBS/TEMI-official-BMVC2023)]  
@@ -55,7 +58,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
  [2024-CVPR] **Targeted Representation Alignment for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/Justherozen/TRAILER)]  
  [2024-ICJV]  **MutualFormer: Multi-modal Representation Learning via Cross-Diffusion Attention**[[paper](https://link.springer.com/article/10.1007/s11263-024-02067-x)][[code](https://github.com/SissiW/MutualFormer)]  
- 
+
+ [2025-Arxiv] **Category Discovery: An Open-World Perspective**[[paper](https://arxiv.org/pdf/2509.22542)]  
  [2025-Arxiv] **Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)]  
  [2025-Arxiv] **Hyperbolic Category Discovery**[[paper](https://visual-ai.github.io/hypcd/)][[code](https://github.com/Visual-AI/HypCD)]  
  [2025-CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2403.09974)][[code](https://github.com/enguangW/GET)]  
@@ -114,3 +118,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
  [2025-ICCV] **Frequency-Guided Diffusion for Training-Free Text-Driven Image Translation**  
  [2025-ICCV] **KV-Edit: Training-Free Image Editing for Precise Background Preservation**  
  [2025-ICCV] **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**  
+
+### Research group of interest
+ Kai Han, The University of Hong Kong[[home](https://www.kaihan.org/)]  
+ 
