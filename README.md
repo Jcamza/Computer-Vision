@@ -121,4 +121,5 @@ As a new postgraduate, this repository contains a collection of papers on comput
 
 ### Research group of interest
  Kai Han, The University of Hong Kong[[home](https://www.kaihan.org/)]  
+ Xiangyong Cao, Xi’an Jiaotong University[[home](https://gr.xjtu.edu.cn/web/caoxiangyong)]
  
