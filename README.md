@@ -1,6 +1,6 @@
 # Computer-Vision-paper
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
-My advisor's personal [homepage](https://kdd-code.github.io/)
+My advisor's personal [homepage](https://kdd-code.github.io/).
 
  [2025-ICLR] **NEAR, FAR: PATCH-ORDERING ENHANCES VISION FOUNDATION MODELS’ SCENE UNDERSTANDING**[[paper](https://arxiv.org/pdf/2408.11054)]  
 
