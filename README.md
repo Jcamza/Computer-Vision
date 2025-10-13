@@ -99,6 +99,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/)
  [2025-CVPR] **COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**[[paper](https://arxiv.org/pdf/2503.23388)]  
  [2025-CVPR] **VTD-CLIP:Video-to-Text Discretization via Prompting CLIP**[[paper](https://arxiv.org/pdf/2503.18407#/)]  
  [2025-ICLR] **ATTRIBUTE-BASED VISUAL REPROGRAMMING FOR VISION-LANGUAGE MODELS**[[paper](https://arxiv.org/pdf/2501.13982)]  
+ [2025-Arxiv] **Introducing Visual Perception Token into Multimodal Large Language Model**[[paper](https://arxiv.org/pdf/2502.17425)]
 
  
 ### Preprint
