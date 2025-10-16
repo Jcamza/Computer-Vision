@@ -32,7 +32,9 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICCV] **On the Provable Importance of Gradients for Language-Assisted Image Clustering**  
 
  [2026-ICLR] **SAMPLES ARE NOTEQUAL: A SAMPLE SELECTION APPROACH FOR DEEP CLUSTERING**[[paper](https://openreview.net/attachment?id=SpsmpVo349&name=pdf)]  
- [2026-ICLR] **CLIP AS A PRIOR TEACHER: BREAKING THE LABEL DEPENDENCY IN SEMI-SUPERVISED LEARNING**[[paper](https://openreview.net/attachment?id=e9JphzQ5Gr&name=pdf)]
+ [2026-ICLR] **CLIP AS A PRIOR TEACHER: BREAKING THE LABEL DEPENDENCY IN SEMI-SUPERVISED LEARNING**[[paper](https://openreview.net/attachment?id=e9JphzQ5Gr&name=pdf)]  
+ [2026-ICLR] **SPATIAL STRUCTURE AND SELECTIVE TEXT JOINTLY FACILITATE IMAGE CLUSTERING**[[paper](https://openreview.net/attachment?id=3DOgmfZ2k6&name=pdf)]  
+ [2026-ICLR] **DELVING INTO SPECTRAL CLUSTERING WITH VISION-LANGUAGE REPRESENTATIONS**[[paper](https://openreview.net/attachment?id=s1ea8y8VUL&name=pdf)]  
 
 
 ### Semi-Supervised Learning
@@ -96,6 +98,8 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICML] **Representation Surgery in Model Merging with Probabilistic Modeling**[[paper](https://openreview.net/pdf?id=a02CH43z1G)][[code]()]  
  [2025-ICCV] **Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition**  
  [2025-ICCV] **Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features**[[paper](https://arxiv.org/pdf/2412.00142)]  
+
+ [2026-ICLR] **INFER: EMBEDDING INTEGRATION WITH FEATURE REFINEMENT FOR FEW-SHOT LEARNING IN VLMs**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]
 
 
 ### Fine-tuning of the base model
