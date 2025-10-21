@@ -35,6 +35,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2026-ICLR] **CLIP AS A PRIOR TEACHER: BREAKING THE LABEL DEPENDENCY IN SEMI-SUPERVISED LEARNING**[[paper](https://openreview.net/attachment?id=e9JphzQ5Gr&name=pdf)]  
  [2026-ICLR] **SPATIAL STRUCTURE AND SELECTIVE TEXT JOINTLY FACILITATE IMAGE CLUSTERING**[[paper](https://openreview.net/attachment?id=3DOgmfZ2k6&name=pdf)]  
  [2026-ICLR] **DELVING INTO SPECTRAL CLUSTERING WITH VISION-LANGUAGE REPRESENTATIONS**[[paper](https://openreview.net/attachment?id=s1ea8y8VUL&name=pdf)]  
+ [2026-ICLR] **INFER: EMBEDDING INTEGRATIONWITHFEATURE REFINEMENTFORFEW-SHOTLEARNINGINVLMS**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]  
 
 
 ### Semi-Supervised Learning
