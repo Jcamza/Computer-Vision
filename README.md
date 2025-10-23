@@ -4,14 +4,6 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
 
  [2025-ICLR] **NEAR, FAR: PATCH-ORDERING ENHANCES VISION FOUNDATION MODELS’ SCENE UNDERSTANDING**[[paper](https://arxiv.org/pdf/2408.11054)]  
 
-### Remote Sensing
- [2024-Arxiv] **Open-cd: A comprehensive toolbox for change detection**[[paper](https://arxiv.org/pdf/2407.15317)][[code](https://github.com/likyoo/open-cd)]  
- [2024-NeurIPS] **Segment Any Change**[[paper](https://arxiv.org/pdf/2402.01188)][[code](https://github.com/Z-Zheng/pytorch-change-models)]  
-  
- [2025-Arxiv] **Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices**[[paper](https://arxiv.org/pdf/2507.03367?)][[code](https://github.com/blaz-r/BTC-change-detection)]  
- [2025-Arxiv] **DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**[[paper](https://arxiv.org/pdf/2501.12931)][[code](https://likyoo.github.io/DynamicEarth)]  
- [2025-Arxiv] **PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection**[[paper](https://arxiv.org/pdf/2509.09572)][[code](https://github.com/dyzy41/PeftCD)]  
-
 ### Self-Supervised Learning（Including clustering）
  [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code](https://github.com/HHU-MMBS/TEMI-official-BMVC2023)]  
  [2023-ICCV] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)][[code](https://github.com/miccunifi/SEARLE)]  
@@ -81,6 +73,14 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICCV] **Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery**  
  [2025-CVPR] **MOS:Modeling Object-Scene Associations in Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.12035)][[code](https://github.com/JethroPeng/MOS)]  
 
+ [2026-ICLR] **GESTALT GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=pbMzwCnGpq&name=pdf)]  
+ [2026-ICLR] **BURES GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=nfVKTJ1MJ3&name=pdf)]  
+ [2026-ICLR] **PARTCO:PART-LEVEL CORRESPONDENCE PRIORS ENHANCE CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=xiKtlg1jED&name=pdf)]  
+ [2026-ICLR] **ADAPTIVE GAUSSIAN EXPANSION FOR ON-THE-FLY CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=Y59JeAbM3j&name=pdf)]  
+ [2026-ICLR] **CONSISTENCY AND UNIFIED SEMANTIC REGULARIZATION FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=KmJfy0VtRJ&name=pdf)]  
+ [2026-ICLR] **MULTI-MODAL REPRESENTATION LEARNING VIA SEMI-SUPERVISED RATE REDUCTION FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=40TvCwYSau&name=pdf)]  
+ [2026-ICLR] **SPECTRALGCD: SPECTRAL CONCEPT SELECTION AND CROSS-MODAL REPRESENTATION LEARNING FOR GENERALIZED CATEGORY DISCOVERY**[[paper[(https://openreview.net/attachment?id=PyfV9tFmdR&name=pdf)]
+
 ### Pruning
 [2024-CVPR] **Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)]  
 [2025-ICCV] **METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models**[[paper](https://iccv.thecvf.com/virtual/2025/poster/2161)]  
@@ -89,7 +89,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
 ### Model integration 
  [2024-Arxiv] **BRAVE :Broadening the visual encoding of vision-language models**[[paper](https://arxiv.org/pdf/2404.07204)]  
  [2024-Arxiv] **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2408.04883)][[code](https://github.com/mc-lan/ProxyCLIP)]  
- [2024-Arxiv] **Let Go of Your Labels with Unsupervised Transfer**[[paper]](https://arxiv.org/pdf/2406.07236?)  
+ [2024-Arxiv] **Let Go of Your Labels with Unsupervised Transfer**[[paper](https://arxiv.org/pdf/2406.07236?)]  
  [2024-NeurIPS] **No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**[[paper](https://arxiv.org/pdf/2407.10964)]  
 
  [2025-Arxiv] **LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**[[paper](https://arxiv.org/pdf/2501.06986)][[code](https://github.com/Mozhgan91/LEO)]  
@@ -109,6 +109,8 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICLR] **ATTRIBUTE-BASED VISUAL REPROGRAMMING FOR VISION-LANGUAGE MODELS**[[paper](https://arxiv.org/pdf/2501.13982)]  
  [2025-Arxiv] **Introducing Visual Perception Token into Multimodal Large Language Model**[[paper](https://arxiv.org/pdf/2502.17425)]  
 
+### Zero-Shot
+ [2026-ICLR] **IMAGE-FREE ZERO-SHOT LEARNING VIA ADAPTIVE SEMANTIC-GUIDED CLASSIFIER INJECTION**[[paper](https://openreview.net/attachment?id=dbgxBSRVfR&name=pdf)]  
  
 ### Preprint
  [2025-ICML] **Clustering via Self-Supervised Diffusion**[[paper](https://icml.cc/virtual/2025/poster/46196)]  
@@ -117,17 +119,6 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICML] **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models**[[paper](https://icml.cc/virtual/2025/poster/46673)]  
  [2025-ICML] **Deep Unsupervised Hashing via External Guidance**[[paper](https://icml.cc/virtual/2025/poster/43790)]  
  [2025-ICML] **SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors**[[paper](https://icml.cc/virtual/2025/poster/46199)]  
- 
-### Training-Free
- [2024-Arxiv] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation**[[paper](https://arxiv.org/pdf/2410.14729?)]  
- 
- [2025-ICCV] **Training-Free Text-Guided Image Editing with Visual Autoregressive Model**  
- [2025-ICCV] **Training-Free Industrial Defect Generation with Diffusion Models**  
- [2025-ICCV] **SynCity: Training-Free Generation of 3D Cities**  
- [2025-ICCV] **Training-free Geometric Image Editing on Diffusion Models**  
- [2025-ICCV] **Frequency-Guided Diffusion for Training-Free Text-Driven Image Translation**  
- [2025-ICCV] **KV-Edit: Training-Free Image Editing for Precise Background Preservation**  
- [2025-ICCV] **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**  
 
 ### Research group of interest
  Kai Han, The University of Hong Kong[[home](https://www.kaihan.org/)]  
