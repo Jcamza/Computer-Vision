@@ -79,7 +79,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2026-ICLR] **ADAPTIVE GAUSSIAN EXPANSION FOR ON-THE-FLY CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=Y59JeAbM3j&name=pdf)]  
  [2026-ICLR] **CONSISTENCY AND UNIFIED SEMANTIC REGULARIZATION FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=KmJfy0VtRJ&name=pdf)]  
  [2026-ICLR] **MULTI-MODAL REPRESENTATION LEARNING VIA SEMI-SUPERVISED RATE REDUCTION FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=40TvCwYSau&name=pdf)]  
- [2026-ICLR] **SPECTRALGCD: SPECTRAL CONCEPT SELECTION AND CROSS-MODAL REPRESENTATION LEARNING FOR GENERALIZED CATEGORY DISCOVERY**[[paper[(https://openreview.net/attachment?id=PyfV9tFmdR&name=pdf)]
+ [2026-ICLR] **SPECTRALGCD: SPECTRAL CONCEPT SELECTION AND CROSS-MODAL REPRESENTATION LEARNING FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=PyfV9tFmdR&name=pdf)]
 
 ### Pruning
 [2024-CVPR] **Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)]  
