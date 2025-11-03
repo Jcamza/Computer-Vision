@@ -2,7 +2,7 @@
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
 My advisor's personal [homepage](https://kdd-code.github.io/).
 
- [2025-ICLR] **NEAR, FAR: PATCH-ORDERING ENHANCES VISION FOUNDATION MODELS’ SCENE UNDERSTANDING**[[paper](https://arxiv.org/pdf/2408.11054)]  
+ [2025-ICLR] **Near, Far: Patch-Ordering Enhances Vision Foundation Models’ Scene Understanding**[[paper](https://arxiv.org/pdf/2408.11054)]  
 
 ### Self-Supervised Learning（Including clustering）
  [2023-BMVC] **TEMI: Exploring the Limits of Deep Image Clustering using Pretrained Models**[[paper](https://arxiv.org/pdf/2303.17896)][[code](https://github.com/HHU-MMBS/TEMI-official-BMVC2023)]  
@@ -23,11 +23,11 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)][[code](https://micv-yonsei.github.io/cass/)]  
  [2025-ICCV] **On the Provable Importance of Gradients for Language-Assisted Image Clustering**  
 
- [2026-ICLR] **SAMPLES ARE NOTEQUAL: A SAMPLE SELECTION APPROACH FOR DEEP CLUSTERING**[[paper](https://openreview.net/attachment?id=SpsmpVo349&name=pdf)]  
- [2026-ICLR] **CLIP AS A PRIOR TEACHER: BREAKING THE LABEL DEPENDENCY IN SEMI-SUPERVISED LEARNING**[[paper](https://openreview.net/attachment?id=e9JphzQ5Gr&name=pdf)]  
- [2026-ICLR] **SPATIAL STRUCTURE AND SELECTIVE TEXT JOINTLY FACILITATE IMAGE CLUSTERING**[[paper](https://openreview.net/attachment?id=3DOgmfZ2k6&name=pdf)]  
- [2026-ICLR] **DELVING INTO SPECTRAL CLUSTERING WITH VISION-LANGUAGE REPRESENTATIONS**[[paper](https://openreview.net/attachment?id=s1ea8y8VUL&name=pdf)]  
- [2026-ICLR] **INFER: EMBEDDING INTEGRATIONWITHFEATURE REFINEMENTFORFEW-SHOTLEARNINGINVLMS**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]  
+ [2026-ICLR] **Samples Are Notequal: A Sample Selection Approach for Deep Clustering**[[paper](https://openreview.net/attachment?id=SpsmpVo349&name=pdf)]  
+ [2026-ICLR] **CLIP as a Prior Teacher: Breaking the Label Dependency in Semi-Supervised Learning**[[paper](https://openreview.net/attachment?id=e9JphzQ5Gr&name=pdf)]  
+ [2026-ICLR] **Spatial Structure and Selective Text Jointly Facilitate Image Clustering**[[paper](https://openreview.net/attachment?id=3DOgmfZ2k6&name=pdf)]  
+ [2026-ICLR] **Delving into Spectral Clustering with Vision-Language Representations**[[paper](https://openreview.net/attachment?id=s1ea8y8VUL&name=pdf)]  
+ [2026-ICLR] **Infer: Embedding Integration with Feature Refinement for Few-Shot Learning in VLMs**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]  
 
 
 ### Semi-Supervised Learning
@@ -50,7 +50,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-CVPR] **Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_Seek_Common_Ground_While_Reserving_Differences_Semi-Supervised_Image-Text_Sentiment_Recognition_CVPR_2025_paper.pdf)]  
  [2025-CVPR] **CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CLIP-driven_Coarse-to-fine_Semantic_Guidance_for_Fine-grained_Open-set_Semi-supervised_Learning_CVPR_2025_paper.pdf)]  
  [2025-CVPR] **Learning Textual Prompts for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf)]  
- [2025-ICLR] **SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
+ [2025-ICLR] **Semi-Supervised CLIP Adaptation by Enforcing Semantic and Trapezoidal Consistency**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
  [2025-ICCV] **SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**[[paper]()]   
 
 ### GCD
@@ -65,21 +65,21 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-CVPR] **Mamba-Adaptor: State Space Model Adaptor for Visual Recognition**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Mamba-Adaptor_State_Space_Model_Adaptor_for_Visual_Recognition_CVPR_2025_paper.pdf)]  
  [2025-CVPR] **Adaptive Part Learning for Fine-Grained Generalized Category Discovery: APlug-and-Play Enhancement**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.pdf)]  
  [2025-CVPR] **Less Attention is More: Prompt Transformer for Generalized Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://github.com/wendy26zhang/AptGCD)]  
- [2025-ICLR] **GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
- [2025-ICLR] **DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
+ [2025-ICLR] **Generalized Category Discovery Utilizing Reciprocal Learning and Class-Wise Distribution Regularization**[[paper](https://openreview.net/pdf?id=On8E0U9vbz)]  
+ [2025-ICLR] **DEBGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2504.04804?)][[code](https://visual-ai.github.io/debgcd/)]]  
  [2025-CVPR] **Hyperbolic Category Discovery**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)][[code](https://visual-ai.github.io/hypcd/)]  
  [2025-ICCV] **Learning Separable Fine-Grained Representation via Dendrogram Construction from Coarse Labels for Fine-grained Visual Recognition**[[code](https://github.com/BeCarefulOfYournaoke/BuCSFR)]  
  [2025-ICCV] **AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery**  
  [2025-ICCV] **Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery**  
  [2025-CVPR] **MOS:Modeling Object-Scene Associations in Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.12035)][[code](https://github.com/JethroPeng/MOS)]  
 
- [2026-ICLR] **GESTALT GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=pbMzwCnGpq&name=pdf)]  
- [2026-ICLR] **BURES GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=nfVKTJ1MJ3&name=pdf)]  
- [2026-ICLR] **PARTCO:PART-LEVEL CORRESPONDENCE PRIORS ENHANCE CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=xiKtlg1jED&name=pdf)]  
- [2026-ICLR] **ADAPTIVE GAUSSIAN EXPANSION FOR ON-THE-FLY CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=Y59JeAbM3j&name=pdf)]  
- [2026-ICLR] **CONSISTENCY AND UNIFIED SEMANTIC REGULARIZATION FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=KmJfy0VtRJ&name=pdf)]  
- [2026-ICLR] **MULTI-MODAL REPRESENTATION LEARNING VIA SEMI-SUPERVISED RATE REDUCTION FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=40TvCwYSau&name=pdf)]  
- [2026-ICLR] **SPECTRALGCD: SPECTRAL CONCEPT SELECTION AND CROSS-MODAL REPRESENTATION LEARNING FOR GENERALIZED CATEGORY DISCOVERY**[[paper](https://openreview.net/attachment?id=PyfV9tFmdR&name=pdf)]
+ [2026-ICLR] **Gestalt Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=pbMzwCnGpq&name=pdf)]  
+ [2026-ICLR] **Bures Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=nfVKTJ1MJ3&name=pdf)]  
+ [2026-ICLR] **PARTCO: Part-Level Correspondence Priors Enhance Category Discovery**[[paper](https://openreview.net/attachment?id=xiKtlg1jED&name=pdf)]  
+ [2026-ICLR] **Adaptive Gaussian Expansion for On-the-Fly Category Discovery**[[paper](https://openreview.net/attachment?id=Y59JeAbM3j&name=pdf)]  
+ [2026-ICLR] **Consistency and Unified Semantic Regularization for Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=KmJfy0VtRJ&name=pdf)]  
+ [2026-ICLR] **Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=40TvCwYSau&name=pdf)]  
+ [2026-ICLR] **SpectralGCD: Spectral Concept Selection and Cross-Modal Representation Learning for Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=PyfV9tFmdR&name=pdf)]
 
 ### Pruning
 [2024-CVPR] **Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)]  
@@ -100,17 +100,15 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICCV] **Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition**  
  [2025-ICCV] **Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features**[[paper](https://arxiv.org/pdf/2412.00142)]  
 
- [2026-ICLR] **INFER: EMBEDDING INTEGRATION WITH FEATURE REFINEMENT FOR FEW-SHOT LEARNING IN VLMs**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]
-
 
 ### Fine-tuning of the base model
  [2025-CVPR] **COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**[[paper](https://arxiv.org/pdf/2503.23388)]  
  [2025-CVPR] **VTD-CLIP:Video-to-Text Discretization via Prompting CLIP**[[paper](https://arxiv.org/pdf/2503.18407#/)]  
- [2025-ICLR] **ATTRIBUTE-BASED VISUAL REPROGRAMMING FOR VISION-LANGUAGE MODELS**[[paper](https://arxiv.org/pdf/2501.13982)]  
+ [2025-ICLR] **Attribute-Based Visual Reprogramming for Vision-Language Models**[[paper](https://arxiv.org/pdf/2501.13982)]  
  [2025-Arxiv] **Introducing Visual Perception Token into Multimodal Large Language Model**[[paper](https://arxiv.org/pdf/2502.17425)]  
 
 ### Zero-Shot
- [2026-ICLR] **IMAGE-FREE ZERO-SHOT LEARNING VIA ADAPTIVE SEMANTIC-GUIDED CLASSIFIER INJECTION**[[paper](https://openreview.net/attachment?id=dbgxBSRVfR&name=pdf)]  
+ [2026-ICLR] **Image-Free Zero-Shot Learning via Adaptive Semantic-Guided Classifier Injection**[[paper](https://openreview.net/attachment?id=dbgxBSRVfR&name=pdf)]  
  
 ### Preprint
  [2025-ICML] **Clustering via Self-Supervised Diffusion**[[paper](https://icml.cc/virtual/2025/poster/46196)]  
