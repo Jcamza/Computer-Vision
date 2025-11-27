@@ -107,6 +107,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-CVPR] **VTD-CLIP:Video-to-Text Discretization via Prompting CLIP**[[paper](https://arxiv.org/pdf/2503.18407#/)]  
  [2025-ICLR] **Attribute-Based Visual Reprogramming for Vision-Language Models**[[paper](https://arxiv.org/pdf/2501.13982)]  
  [2025-Arxiv] **Introducing Visual Perception Token into Multimodal Large Language Model**[[paper](https://arxiv.org/pdf/2502.17425)]  
+ [2024-Arxiv] **SINDER: Repairing the Singular Defects of DINOv2**[[paper](https://arxiv.org/pdf/2407.16826)][[code](https://github.com/haoqiwang/sinder)]
 
 ### Zero-Shot
  [2026-ICLR] **Image-Free Zero-Shot Learning via Adaptive Semantic-Guided Classifier Injection**[[paper](https://openreview.net/attachment?id=dbgxBSRVfR&name=pdf)]  
