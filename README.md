@@ -28,7 +28,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2026-ICLR] **Spatial Structure and Selective Text Jointly Facilitate Image Clustering**[[paper](https://openreview.net/attachment?id=3DOgmfZ2k6&name=pdf)]  
  [2026-ICLR] **Delving into Spectral Clustering with Vision-Language Representations**[[paper](https://openreview.net/attachment?id=s1ea8y8VUL&name=pdf)]  
  [2026-ICLR] **Infer: Embedding Integration with Feature Refinement for Few-Shot Learning in VLMs**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]  
- [2026-] **You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering**[[paper](https://openreview.net/pdf?id=JqyEIr41M4)]
+ [2026-] **You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering**[[paper](https://openreview.net/pdf?id=JqyEIr41M4)]  
 
 
 ### Semi-Supervised Learning
