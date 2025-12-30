@@ -29,8 +29,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2026-ICLR] **Delving into Spectral Clustering with Vision-Language Representations**[[paper](https://openreview.net/attachment?id=s1ea8y8VUL&name=pdf)]  
  [2026-ICLR] **Infer: Embedding Integration with Feature Refinement for Few-Shot Learning in VLMs**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]  
  [2026-] **You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering**[[paper](https://openreview.net/pdf?id=JqyEIr41M4)]  
- [2025-Arxiv] **Solving Semi-Supervised Few-Shot Learning from an Auto-Annotation Perspective**[[paper](https://arxiv.org/pdf/2512.10244)]  
-
+ 
 
 ### Semi-Supervised Learning
  [2023-NeurIPS] **S-CLIP: Semi-supervised Vision-Language Learning using Few Specialist Captions** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)] [[code](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)]  
@@ -45,6 +44,8 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)][[code](https://anonymous.4open.science/r/Semi-supervised-learning-BA72)]  
  [2025-Arxiv] **SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptatio**[[paper](https://arxiv.org/pdf/2501.14148)]  
  [2025-Arxiv] **FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**[[paper](https://arxiv.org/pdf/2504.09828)][[code](https://anonymous.4open.science/r/Semi-supervised-learning-BA72)]  
+ [2025-Arxiv] **Solving Semi-Supervised Few-Shot Learning from an Auto-Annotation Perspective**[[paper](https://arxiv.org/pdf/2512.10244)]  
+
 
  [2025-Arxiv] **Revisiting Semi-Supervised Learning in the Era of Foundation Models**[[paper](https://arxiv.org/pdf/2503.09707)][[code](https://github.com/OSU-MLB/SSL-Foundation-Models)]  
  [2025-CVPR] **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Language-Assisted_Debiasing_and_Smoothing_for_Foundation_Model-Based_Semi-Supervised_Learning_CVPR_2025_paper.pdf)]   
@@ -101,6 +102,8 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICML] **Representation Surgery in Model Merging with Probabilistic Modeling**[[paper](https://openreview.net/pdf?id=a02CH43z1G)][[code]()]  
  [2025-ICCV] **Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition**  
  [2025-ICCV] **Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features**[[paper](https://arxiv.org/pdf/2412.00142)]  
+
+ [2025-Arxiv] **GaussianToken: An Effective Image Tokenizer with 2D Gaussian Splatting**[[paper](https://arxiv.org/pdf/2501.15619)]  
 
 
 ### Fine-tuning of the base model
