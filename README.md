@@ -60,6 +60,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
  [2024-CVPR] **Targeted Representation Alignment for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/Justherozen/TRAILER)]  
  [2024-ICJV]  **MutualFormer: Multi-modal Representation Learning via Cross-Diffusion Attention**[[paper](https://link.springer.com/article/10.1007/s11263-024-02067-x)][[code](https://github.com/SissiW/MutualFormer)]  
+ [2024-Arxiv] **Mixture-of-Subspaces in Low-Rank Adaptation**[[paper](https://arxiv.org/pdf/2406.11909)]  
 
  [2025-Arxiv] **Category Discovery: An Open-World Perspective**[[paper](https://arxiv.org/pdf/2509.22542)]  
  [2025-Arxiv] **Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)]  
@@ -82,7 +83,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2026-ICLR] **Adaptive Gaussian Expansion for On-the-Fly Category Discovery**[[paper](https://openreview.net/attachment?id=Y59JeAbM3j&name=pdf)]  
  [2026-ICLR] **Consistency and Unified Semantic Regularization for Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=KmJfy0VtRJ&name=pdf)]  
  [2026-ICLR] **Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=40TvCwYSau&name=pdf)]  
- [2026-ICLR] **SpectralGCD: Spectral Concept Selection and Cross-Modal Representation Learning for Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=PyfV9tFmdR&name=pdf)]
+ [2026-ICLR] **SpectralGCD: Spectral Concept Selection and Cross-Modal Representation Learning for Generalized Category Discovery**[[paper](https://openreview.net/attachment?id=PyfV9tFmdR&name=pdf)]  
 
 ### Pruning
 [2024-CVPR] **Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)]  
