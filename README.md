@@ -38,6 +38,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2024-Arxiv] **FINESSL:Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning** [[paper](https://arxiv.org/pdf/2405.11756)] [[code](https://github.com/Gank0078/FineSSL)]  
  [2024-NeurIPS] **OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/b4fd162d3e2d015233486a2e313828a7-Paper-Conference.pdf)] [[code](https://github.com/niusj03/OwMatch)]  
  [2024-ICML] **Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data**[[paper](https://arxiv.org/pdf/2406.10502)]  
+ [2024-Arxiv] **Mixture-of-Subspaces in Low-Rank Adaptation**[[paper](https://arxiv.org/pdf/2406.11909)]  
  
  [2025-Arxiv] **Revisiting Semi-Supervised Learning in the Era of Foundation Models**[[paper](https://arxiv.org/pdf/2503.09707)] [[code](https://github.com/OSU-MLB/SSL-Foundation-Models)]  
  [2025-Arxiv] **CGMatch: A Different Perspective of Semi-supervised Learning** [[paper](https://arxiv.org/pdf/2503.02231?)] [[code](https://github.com/BoCheng-96/CGMatch)]  
@@ -60,7 +61,6 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
  [2024-CVPR] **Targeted Representation Alignment for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/Justherozen/TRAILER)]  
  [2024-ICJV]  **MutualFormer: Multi-modal Representation Learning via Cross-Diffusion Attention**[[paper](https://link.springer.com/article/10.1007/s11263-024-02067-x)][[code](https://github.com/SissiW/MutualFormer)]  
- [2024-Arxiv] **Mixture-of-Subspaces in Low-Rank Adaptation**[[paper](https://arxiv.org/pdf/2406.11909)]  
 
  [2025-Arxiv] **Category Discovery: An Open-World Perspective**[[paper](https://arxiv.org/pdf/2509.22542)]  
  [2025-Arxiv] **Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2503.16782)]  
