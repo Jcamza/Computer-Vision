@@ -10,7 +10,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  
  [2025-IJCAI] **AUnifying Perspective on Model Reuse: From Small to Large Pre-Trained Models**[[[paper](https://www.ijcai.org/proceedings/2025/1201.pdf)][[code](https://github.com/LAMDA-Model-Reuse/Awesome-Model-Reuse)]  
  [2025-ICCV] **Consensus-Driven Active Model Selection**[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Kay_Consensus-Driven_Active_Model_Selection_ICCV_2025_paper.pdf)][[code](https://github.com/justinkay/coda)]  
- [2025-Arxiv] **ONE-EMBEDDING-FITS-ALL: EFFICIENT ZERO-SHOT TIME SERIES FORECASTING BY A MODEL ZOO**[[paper](https://arxiv.org/pdf/2509.04208?)]  
+ [2025-Arxiv] **One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo**[[paper](https://arxiv.org/pdf/2509.04208?)]  
  [2025-Arxiv] **Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**[[paper](https://arxiv.org/pdf/2506.18504)]  
  [2025-Arxiv] **Vision-Language Model Selection and Reuse for Downstream Adaptation**[[paper](https://arxiv.org/pdf/2501.18271)]  
  
