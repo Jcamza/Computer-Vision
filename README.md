@@ -39,7 +39,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2026-ICLR] **Spatial Structure and Selective Text Jointly Facilitate Image Clustering**[[paper](https://openreview.net/attachment?id=3DOgmfZ2k6&name=pdf)]  
  [2026-ICLR] **Delving into Spectral Clustering with Vision-Language Representations**[[paper](https://openreview.net/attachment?id=s1ea8y8VUL&name=pdf)]  
  [2026-ICLR] **Infer: Embedding Integration with Feature Refinement for Few-Shot Learning in VLMs**[[paper](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)]  
- [2026-] **You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering**[[paper](https://openreview.net/pdf?id=JqyEIr41M4)]  
+ [2026-Arxiv] **You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering**[[paper](https://openreview.net/pdf?id=JqyEIr41M4)]  
  
 
 ### Semi-Supervised Learning
@@ -114,16 +114,17 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICML] **Representation Surgery in Model Merging with Probabilistic Modeling**[[paper](https://openreview.net/pdf?id=a02CH43z1G)][[code]()]  
  [2025-ICCV] **Unknown Text Learning for CLIP-based Few-Shot Open-set Recognition**  
  [2025-ICCV] **Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features**[[paper](https://arxiv.org/pdf/2412.00142)]  
-
  [2025-Arxiv] **GaussianToken: An Effective Image Tokenizer with 2D Gaussian Splatting**[[paper](https://arxiv.org/pdf/2501.15619)]  
 
 
 ### Fine-tuning of the base model
+ [2024-Arxiv] **SINDER: Repairing the Singular Defects of DINOv2**[[paper](https://arxiv.org/pdf/2407.16826)][[code](https://github.com/haoqiwang/sinder)]  
+
  [2025-CVPR] **COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**[[paper](https://arxiv.org/pdf/2503.23388)]  
  [2025-CVPR] **VTD-CLIP:Video-to-Text Discretization via Prompting CLIP**[[paper](https://arxiv.org/pdf/2503.18407#/)]  
  [2025-ICLR] **Attribute-Based Visual Reprogramming for Vision-Language Models**[[paper](https://arxiv.org/pdf/2501.13982)]  
  [2025-Arxiv] **Introducing Visual Perception Token into Multimodal Large Language Model**[[paper](https://arxiv.org/pdf/2502.17425)]  
- [2024-Arxiv] **SINDER: Repairing the Singular Defects of DINOv2**[[paper](https://arxiv.org/pdf/2407.16826)][[code](https://github.com/haoqiwang/sinder)]
+ 
 
 ### Zero-Shot
  [2026-ICLR] **Image-Free Zero-Shot Learning via Adaptive Semantic-Guided Classifier Injection**[[paper](https://openreview.net/attachment?id=dbgxBSRVfR&name=pdf)]  
@@ -138,5 +139,4 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
 
 ### Research group of interest
  Kai Han, The University of Hong Kong[[home](https://www.kaihan.org/)]  
- Xiangyong Cao, Xi’an Jiaotong University[[home](https://gr.xjtu.edu.cn/web/caoxiangyong)]
- 
+ Xiangyong Cao, Xi’an Jiaotong University[[home](https://gr.xjtu.edu.cn/web/caoxiangyong)]  
