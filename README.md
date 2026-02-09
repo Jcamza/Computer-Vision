@@ -68,6 +68,9 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICLR] **Semi-Supervised CLIP Adaptation by Enforcing Semantic and Trapezoidal Consistency**[[paper](https://openreview.net/pdf?id=97D725GJtQ)][[code](https://github.com/Gank0078/SemiCLIP)]  
  [2025-ICCV] **SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**[[paper]()]   
 
+### Attention
+ [2026-ICLR] **Locality-Attending Vision Transformer**[[paper](https://openreview.net/pdf?id=KvEjv5klWi)]
+
 ### GCD
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
  [2024-CVPR] **Targeted Representation Alignment for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/Justherozen/TRAILER)]  
