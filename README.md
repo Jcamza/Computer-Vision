@@ -69,7 +69,10 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICCV] **SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**[[paper]()]   
 
 ### Attention
- [2026-ICLR] **Locality-Attending Vision Transformer**[[paper](https://openreview.net/pdf?id=KvEjv5klWi)]
+ [2025-ICCV] **Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2508.20265)]  
+
+ [2026-ICLR] **Locality-Attending Vision Transformer**[[paper](https://openreview.net/pdf?id=KvEjv5klWi)]  
+
 
 ### GCD
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
