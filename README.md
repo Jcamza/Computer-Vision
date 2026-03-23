@@ -4,6 +4,9 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
 
  [2025-ICLR] **Near, Far: Patch-Ordering Enhances Vision Foundation Models’ Scene Understanding**[[paper](https://arxiv.org/pdf/2408.11054)][[code](https://github.com/vpariza/NeCo)]  
 
+### Multimodal Representation Learning
+ [2026-ICLR] **DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning**[[paper](https://arxiv.org/pdf/2503.11892)]  
+
 ### Model Selection
  [2024-NeurIPS] **Bridge the Modality and Capability Gaps in Vision-Language Model Selection**[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/3d007df4ae13adf9001f8969555b11bd-Paper-Conference.pdf)][[code](https://github.com/YCaigogogo/SWAB)]  
  [2024-Arxiv] **Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**[[paper](https://arxiv.org/pdf/2412.20682)]  
@@ -72,6 +75,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-ICCV] **Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation**[[paper](https://arxiv.org/pdf/2508.20265)]  
 
  [2026-ICLR] **Locality-Attending Vision Transformer**[[paper](https://openreview.net/pdf?id=KvEjv5klWi)]  
+ [2026-CVPR] **TriLite: Efficient Weakly Supervised Object Localization with Universal Visual Features and Tri-Region Disentanglement**[[paper](https://arxiv.org/pdf/2603.05952)]  
 
 
 ### GCD
