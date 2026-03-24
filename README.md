@@ -3,6 +3,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 My advisor's personal [homepage](https://kdd-code.github.io/).
 
  [2025-ICLR] **Near, Far: Patch-Ordering Enhances Vision Foundation Models’ Scene Understanding**[[paper](https://arxiv.org/pdf/2408.11054)][[code](https://github.com/vpariza/NeCo)]  
+ [2026-Arxiv] **IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment**[[paper](https://arxiv.org/pdf/2603.19862)]  
 
 ### Multimodal Representation Learning
  [2026-ICLR] **DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning**[[paper](https://arxiv.org/pdf/2503.11892)]  
