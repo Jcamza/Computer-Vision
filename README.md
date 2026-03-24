@@ -138,7 +138,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
 
 ### Zero-Shot
  [2026-ICLR] **Image-Free Zero-Shot Learning via Adaptive Semantic-Guided Classifier Injection**[[paper](https://openreview.net/attachment?id=dbgxBSRVfR&name=pdf)]  
- [] **Think Twice: Test-Time Reasoning for Robust CLIP Zero-Shot Classification**[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Think_Twice_Test-Time_Reasoning_for_Robust_CLIP_Zero-Shot_Classification_ICCV_2025_paper.pdf)]  
+ [2025-ICCV] **Think Twice: Test-Time Reasoning for Robust CLIP Zero-Shot Classification**[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Think_Twice_Test-Time_Reasoning_for_Robust_CLIP_Zero-Shot_Classification_ICCV_2025_paper.pdf)]  
  
 ### Preprint
  [2025-ICML] **Clustering via Self-Supervised Diffusion**[[paper](https://icml.cc/virtual/2025/poster/46196)]  
