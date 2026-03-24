@@ -16,6 +16,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
  [2025-Arxiv] **One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo**[[paper](https://arxiv.org/pdf/2509.04208?)]  
  [2025-Arxiv] **Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**[[paper](https://arxiv.org/pdf/2506.18504)]  
  [2025-Arxiv] **Vision-Language Model Selection and Reuse for Downstream Adaptation**[[paper](https://arxiv.org/pdf/2501.18271)]  
+ [2025-Arxiv] **Evaluating multiple models using labeled and unlabeled data**[[paper](https://arxiv.org/pdf/2501.11866)]  
  
 
 ### Self-Supervised Learning（Including clustering）
