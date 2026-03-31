@@ -83,6 +83,7 @@ My advisor's personal [homepage](https://kdd-code.github.io/).
 ### GCD
  [2024-Arxiv] **SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**[[paper](https://arxiv.org/pdf/2408.14371)][[code](https://github.com/SarahRastegar/SelEx)]  
  [2024-CVPR] **Targeted Representation Alignment for Open-World Semi-Supervised Learning**[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)][[code](https://github.com/Justherozen/TRAILER)]  
+ [2024-CVPR] **Novel Class Discovery for Ultra-Fine-Grained Visual Categorization**[[paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Novel_Class_Discovery_for_Ultra-Fine-Grained_Visual_Categorization_CVPR_2024_paper.pdf)]  
  [2024-ICJV]  **MutualFormer: Multi-modal Representation Learning via Cross-Diffusion Attention**[[paper](https://link.springer.com/article/10.1007/s11263-024-02067-x)][[code](https://github.com/SissiW/MutualFormer)]  
 
  [2025-Arxiv] **Category Discovery: An Open-World Perspective**[[paper](https://arxiv.org/pdf/2509.22542)]  
